@@ -1,6 +1,6 @@
 # TestesAgeisUECE
 Trabalho da pós graduação sobre testes ágeis.
-Trata-se de um exemplo de aplicação que fornece cartão de viagens para usuários usaram nas viagens de estações de metrô.
+Trata-se de um exemplo de aplicação que fornece cartão de viagens para usuários usarem nas viagens de estações de metrô.
 
 Exemplo TDD
 ![](https://i.imgur.com/2Kj6DRF.gif)
